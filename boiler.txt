@@ -1,0 +1,35 @@
+{
+    "C++ Snippet": {
+        "prefix": "boiler",
+        "body": [
+            "",
+            "using namespace std;",
+            "#include <bits/stdc++.h>",
+            "typedef long long int ll;",
+            "typedef double dd;",
+            "typedef long double ldd;",
+            "#define vi vector<int>",
+            "#define vll vector<ll>",
+            "#define ss second",
+            "#define ff first",
+            "#define rep(i,a, b) for (ll i = a; i <= (b); ++i)",
+            "#define M 1000000007 //PRIME",
+            "#define inf 1e9",
+            "#define tst ll t; cin>>t; while(t--)",
+            " ",
+            "",
+            "void solve(){}",
+            " ",
+            "int main()",
+            "{",
+            " ios::sync_with_stdio(false);",
+            "cin.tie(NULL);",
+            " ",
+            "solve();",
+            " ",
+            "return 0;",
+            "}"
+        ],
+        "description": "C++ Snippet"
+    }
+}
