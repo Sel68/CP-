@@ -1,35 +1,32 @@
 {
-    "C++ Snippet": {
-        "prefix": "boiler",
-        "body": [
-            "",
-            "using namespace std;",
-            "#include <bits/stdc++.h>",
-            "typedef long long int ll;",
-            "typedef double dd;",
-            "typedef long double ldd;",
-            "#define vi vector<int>",
-            "#define vll vector<ll>",
-            "#define ss second",
-            "#define ff first",
-            "#define rep(i,a, b) for (ll i = a; i <= (b); ++i)",
-            "#define M 1000000007 //PRIME",
-            "#define inf 1e9",
-            "#define tst ll t; cin>>t; while(t--)",
-            " ",
-            "",
-            "void solve(){}",
-            " ",
-            "int main()",
-            "{",
-            " ios::sync_with_stdio(false);",
-            "cin.tie(NULL);",
-            " ",
-            "solve();",
-            " ",
-            "return 0;",
-            "}"
-        ],
-        "description": "C++ Snippet"
-    }
+	"CP Template": {
+	"prefix": "cp",
+	"body": [
+		"#include <bits/stdc++.h>",
+		"using namespace std;",
+		"#define sz(a) a.size()",
+		"#define ll long long",
+		"#define pb push_back",
+		"#define all(v) v.begin(), v.end()",
+		"#define rall(v) v.rbegin(), v.rend()",
+		"#define fli(i,fc,n) for(int i=fc;i<n;i++)",
+		"#define rli(i,n,rc) for(int i=n;i>rc;i--)",
+		"#define nl \"\\n\"",
+		"#define ff first",
+		"#define ss second",
+		"",
+		"void solve(){",
+		"    ",
+		"}",
+		"",
+		"int main() {",
+		"    ios::sync_with_stdio(false),cin.tie(nullptr);",
+		"    int t = 1;",
+		"    cin >> t;",
+		"    while(t--){solve();}",
+		"}"
+	],
+	"description": "Competitive Programming Template"
+	}
+
 }
